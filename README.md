@@ -10,4 +10,5 @@ uv venv
 source .venv/bin/activate
 uv add pygame==2.6.1
 uv run -m pygame
+uv run main.py
 ```
